@@ -1,5 +1,5 @@
 import java.util.Scanner; 
-public class palindrome {
+public class Palindrome {
     public static void main (String [] args){
         Scanner sc = new Scanner(System.in);
         System.out.print("enter a string : ");
@@ -17,7 +17,7 @@ public class palindrome {
          System.out.println("palindrome");
 
         
-
+         sc.close();
             
          }
 
