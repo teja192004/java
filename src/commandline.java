@@ -1,4 +1,4 @@
-class Command{
+class Commandline {
 public static void main (String[]args){
 int n = args.length;
 int sum=0;
